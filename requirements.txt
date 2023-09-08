@@ -1,0 +1,10 @@
+flask
+requests
+pytest
+sqlalchemy
+psycopg2-binary
+pydantic
+flask-bcrypt
+sqlalchemy_utils
+uuid
+pydantic[email]
